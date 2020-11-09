@@ -1,0 +1,4 @@
+15:31:3 message: MongoNetworkError: failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED 127.0.0.1:27017
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1128:14) {
+  name: 'MongoNetworkError'
+}]}
